@@ -19,7 +19,7 @@ computational and numerical methods.
 
 * Numerical Linear Algebra
 * Floating Point Arithmetic
-  * Mulitprecision algorithms
+  * Multiprecision algorithms
   * Stochastic Rounding 
 
 
