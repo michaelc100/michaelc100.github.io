@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D student in the Numerical Linear Algebra group at the
+I am a first year PhD student in the Numerical Linear Algebra group at the
 School of Mathematics, University of Manchester. My supervisor is Professor Nick
-Higham and my co-supervisor is Professor Francoise Tisseur. I completed my
-undergraduate degree in Theoretical Physics, where I focused primarily on
-computational and numerical methods. 
+Higham. I completed my undergraduate degree in Theoretical Physics at Trinity
+College Dublin, where I focused primarily on computational and numerical
+methods.
 
 
 # Research Interests
@@ -21,5 +21,7 @@ computational and numerical methods.
 * Floating Point Arithmetic
   * Multiprecision algorithms
   * Stochastic Rounding 
+* Numerical Software
+  
 
 
