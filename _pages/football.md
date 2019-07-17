@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /football
 title: "Football"
 excerpt: "Football"
 author_profile: true
