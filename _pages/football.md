@@ -4,7 +4,7 @@ title: "Football"
 excerpt: "Football"
 author_profile: true
 redirect_from: 
-  - /_football/
+  - /football/
 ---
 
 
