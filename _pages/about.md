@@ -21,6 +21,6 @@ focused primarily on computational and numerical methods.
 * Floating-point arithmetic
   * Multiprecision algorithms
   * Stochastic rounding 
-* Numerical Software
+* Numerical software
   
 
